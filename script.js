@@ -73,11 +73,14 @@ fetch(url)
         e.preventDefault();
         let imageUrl = e.srcElement.getAttribute("data-img");
         mainImageElement.setAttribute("src", imageUrl);
+        let menu = document.querySelector("#menu");
+        menu.classList.add("inactive");
+        menu.classList.remove("active");
       });
       let menuList = document.querySelector('.menuList');
       menuList.appendChild(item);
 
-      // stop at 6
+      // stop at numbers.
       if (i == 18) {
         break;
       }
