@@ -122,3 +122,29 @@ Your project should meet the following requirements:
 1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
 1.  All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
+
+
+# Project Title.
+
+This project is called UI element project.
+
+## Description.
+
+this project is to pratice API and API key to load data from API website.  I used Hamburger frame. which utilize buttons and munun that disapear on screen when it has been clicked which you can see ins many of web
+site now days. This project is to not only pratice to use API but also was able to learn to use most common 
+button decoration and feature out in world now. Here is a website address that you can take a look what is 
+hamburger frame and how it works. also by checking code you can tell what code been used to make these buttons and know more about API. https://taegunjay.github.io/project3/
+
+## support.
+
+you can always visit git hub and read about API project we done in General Assembly. If you like to make some update to make better always welcome. and also you can use it to play around if you wish too.
+
+
+ ## Lisence.
+
+Chaehun CHoe, General Assembly.
+
+
+
+
+
